@@ -1,0 +1,8 @@
+inherited Form1_NmXhdpiPh: TForm1_NmXhdpiPh
+  ClientHeight = 615
+  ClientWidth = 400
+  DesignerMasterStyle = 3
+  inherited ListView1: TListView
+    Size.Height = 615.000000000000000000
+  end
+end

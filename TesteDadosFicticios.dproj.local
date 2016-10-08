@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/25 09:17:06.000.425,=D:\Meus Documentos\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/02/06 16:29:54.000.824,=D:\Meus Documentos\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/02 14:37:51.619,=D:\Meus Documentos\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/02 15:02:55.341,D:\Programacao\Sistemas_Delphi_XE7\Android\BancodeDadosFicticio\UntMain.fmx=D:\Meus Documentos\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2016/10/02 15:02:55.341,D:\Programacao\Sistemas_Delphi_XE7\Android\BancodeDadosFicticio\UntMain.pas=D:\Meus Documentos\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/02 15:03:06.534,D:\Programacao\Sistemas_Delphi_XE7\Android\BancodeDadosFicticio\TesteDadosFicticios.dproj=D:\Meus Documentos\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>  <BT_BuildType>AppStore</BT_BuildType>
+</BorlandProject>
